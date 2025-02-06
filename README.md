@@ -1,4 +1,4 @@
-# scrapeless.com 😊
+# Beamtoolkit.com 🛠️
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=67a5d72e&is=67a485ae&hm=f98bf4710a39a703d3a1600f9f541b167cb15d64e7a2422cf76282dae8d55f45&=&format=webp&quality=lossless&width=1440&height=480">
@@ -10,23 +10,23 @@
   •
   <a href="https://docs.scrapeless.com/en/overview/">Docs</a>
   •
-  <a href="https://discord.com/invite/xBcTfGPjCQ">Community</a>
+  <a href="https://discord.com/invite/beamtoolkit">Community</a>
   •
-  <a href="https://www.scrapeless.com/en/?utm_source=github&utm_medium=banner&utm_campaign=official">Official Website</a>
+  <a href="https://beamtoolkit.com">Official Website</a>
   •
   <a href="https://apidocs.scrapeless.com/">API Reference</a>
   </h4>
 
-**Scrapeless.com** offers an enterprise-grade, AI-driven web scraping toolkit designed to help businesses efficiently
+**Beam Toolkit** offers an enterprise-grade, AI-driven web scraping toolkit designed to help businesses efficiently
 access public web data. With years of expertise, we integrate advanced AI technologies to solve challenges like
 selecting high-quality proxies, optimizing headless browser configurations, and bypassing complex CAPTCHAs. Our
 solutions ensure seamless data extraction in dynamic environments, enhancing efficiency and adaptability. Additionally,
 we provide customized automated data collection services tailored to enterprise needs, enabling businesses to scale and
 gain a competitive edge in the data-driven landscape.
 
-## Why choose Scrapeless
+## Why choose Beam Toolkit
 
-**Scrapeless** is your all-in-one web scraping toolkit, starting at just $0.60 per 1k URLs!
+**Beam Toolkit** is your all-in-one web scraping toolkit, starting at just $0.60 per 1k URLs!
 
 - 🚀 **Scraping API:** Effortless and highly customizable data extraction with a single API call, providing structured data from any website.
 - ⚡️ **Scraping Browser:** AI-powered and LLM-driven, it simulates human-like behavior with genuine fingerprints and headless browser support, ensuring seamless, block-free scraping.
@@ -36,8 +36,6 @@ gain a competitive edge in the data-driven landscape.
 - 🎁 **Free Trial:** Try before you buy-experience our service firsthand.
 - 💬 **Pay-Per-Use:** Flexible, cost-effective pricing with no long-term commitments.
 - 🔧 **Easy Integration:** Seamlessly integrate with your existing tools and workflows for hassle-free automation.
-
-
 
 ### [Scraping API](https://www.scrapeless.com/en/product/scraping-api) Use Cases
 
@@ -71,7 +69,5 @@ gain a competitive edge in the data-driven landscape.
 - Automatically resolves CAPTCHAs (e.g., reCAPTCHA, Cloudflare) to ensure uninterrupted scraping.  
 
 ## Join the Community
-
-- [Discord](https://discord.com/invite/xBcTfGPjCQ)
-- [Twitter](https://x.com/Scrapelessteam)
-- [YouTube](https://www.youtube.com/@Scrapeless)
+- [Discord](https://discord.com/invite/beamtoolkit)
+- [Twitter](https://x.com/Beamtoolkit)
