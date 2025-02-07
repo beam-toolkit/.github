@@ -6,15 +6,9 @@
   <img alt="Beam" src="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=67a5d72e&is=67a485ae&hm=f98bf4710a39a703d3a1600f9f541b167cb15d64e7a2422cf76282dae8d55f45&=&format=webp&quality=lossless&width=1440&height=480">
 </picture>
 <h4 align="center">
-  <b><a href="https://app.scrapeless.com/passport/login">Get Started</a></b>
-  •
-  <a href="https://docs.scrapeless.com/en/overview/">Docs</a>
-  •
   <a href="https://discord.com/invite/beamtoolkit">Community</a>
   •
   <a href="https://beamtoolkit.com">Official Website</a>
-  •
-  <a href="https://apidocs.scrapeless.com/">API Reference</a>
   </h4>
 
 **Beam Toolkit** offers an enterprise-grade, AI-driven web scraping toolkit designed to help businesses efficiently
@@ -37,21 +31,21 @@ gain a competitive edge in the data-driven landscape.
 - 💬 **Pay-Per-Use:** Flexible, cost-effective pricing with no long-term commitments.
 - 🔧 **Easy Integration:** Seamlessly integrate with your existing tools and workflows for hassle-free automation.
 
-### [Scraping API](https://www.scrapeless.com/en/product/scraping-api) Use Cases
+### Scraping API Use Cases
 
 - **Structured Data Access**: Ideal for datasets like product listings or user reviews in a structured format.
 - **High Efficiency and Accuracy**: Precise data extraction without dealing with unstructured content.
 - **Integration with Existing Systems**: Seamless integration with software or databases for automated workflows.
 - **Reduced Development Time**: Avoid custom scraping development; the API handles complexity.
 
-### [Scraping Browser](https://www.scrapeless.com/en/product/headless-browser) Use Cases
+### Scraping Browser Use Cases
 
 - **JavaScript-Intensive Websites**: Perfect for sites relying heavily on JavaScript for content rendering.
 - **Dynamic Content Handling**: Captures interactive elements like dropdowns, forms, or infinite scrolling.
 - **Complex Navigation**: Navigates multi-step processes or complex website paths.
 - **Testing and Automation**: Simulates real user interactions for automated testing.
 
-### [Web Unlocker](https://www.scrapeless.com/en/product/web-unlocker) Use Cases
+### Web Unlocker Use Cases
 
 - **High-Frequency Data Extraction**: Frequent website visits for real-time data, such as financial market updates or
   news.
@@ -59,12 +53,12 @@ gain a competitive edge in the data-driven landscape.
 - **Bypassing Access Restrictions**: Overcomes IP bans and restrictions on scraping-sensitive websites.
 - **Rapid Adaptation to Changes**: Quickly adjusts to frequent changes in anti-scraping measures.
 
-### [Proxies](https://www.scrapeless.com/en/product/rotate-proxy) Use Cases
+### Proxies Use Cases
 
 - Access 80M+ reliable residential and IPv6 IPs with HTTPS and SOCKS5 support, spanning 195+ countries. Use high-quality, rotating proxies to scrape top platforms while maintaining anonymity and avoiding IP bans. 
 - Effortlessly bypass geo-restrictions and ensure seamless global data extraction.
 
-### [Captcha Solver](https://www.scrapeless.com/en/product/captcha-solver) Use Cases
+### Captcha Solver Use Cases
 
 - Automatically resolves CAPTCHAs (e.g., reCAPTCHA, Cloudflare) to ensure uninterrupted scraping.  
 
