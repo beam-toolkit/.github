@@ -8,7 +8,7 @@
 <h4 align="center">
   <a href="https://discord.com/invite/beamtoolkit">Community</a>
   •
-  <a href="https:beamframework.com">Official Website</a>
+  <a href="https://beamframework.com">Official Website</a>
   </h4>
 
 **Beam Toolkit** offers an enterprise-grade, AI-driven web scraping toolkit designed to help businesses efficiently
