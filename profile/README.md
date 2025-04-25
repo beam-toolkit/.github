@@ -1,9 +1,9 @@
 # Beamframework.com 🛠️
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=67a5d72e&is=67a485ae&hm=f98bf4710a39a703d3a1600f9f541b167cb15d64e7a2422cf76282dae8d55f45&=&format=webp&quality=lossless&width=1440&height=480">
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=680cac2e&is=680b5aae&hm=e8ae4dcac18a7476812a2084908d8736b7eb72073e2979b0524dabe16d97816a&=&format=webp&quality=lossless&width=1318&height=439">
   <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=67a5d72e&is=67a485ae&hm=f98bf4710a39a703d3a1600f9f541b167cb15d64e7a2422cf76282dae8d55f45&=&format=webp&quality=lossless&width=1440&height=480">
-  <img alt="Beam" src="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=67a5d72e&is=67a485ae&hm=f98bf4710a39a703d3a1600f9f541b167cb15d64e7a2422cf76282dae8d55f45&=&format=webp&quality=lossless&width=1440&height=480">
+  <img alt="Beam" src="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=680cac2e&is=680b5aae&hm=e8ae4dcac18a7476812a2084908d8736b7eb72073e2979b0524dabe16d97816a&=&format=webp&quality=lossless&width=1318&height=439">
 </picture>
 <h4 align="center">
   <a href="https://discord.com/invite/beamtoolkit">Community</a>
