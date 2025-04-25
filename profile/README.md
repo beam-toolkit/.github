@@ -1,4 +1,4 @@
-# Beamtoolkit.com 🛠️
+# Beamframework.com 🛠️
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1317731551705960488/1336997208083660811/beam_banner.png?ex=67a5d72e&is=67a485ae&hm=f98bf4710a39a703d3a1600f9f541b167cb15d64e7a2422cf76282dae8d55f45&=&format=webp&quality=lossless&width=1440&height=480">
@@ -8,7 +8,7 @@
 <h4 align="center">
   <a href="https://discord.com/invite/beamtoolkit">Community</a>
   •
-  <a href="https://beamtoolkit.com">Official Website</a>
+  <a href="https:beamframework.com">Official Website</a>
   </h4>
 
 **Beam Toolkit** offers an enterprise-grade, AI-driven web scraping toolkit designed to help businesses efficiently
